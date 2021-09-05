@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T11:46:01.490Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="GnzLUzIZFMNePmxc2aOE" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T11:54:16.999Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="Xt3UewarVA5Qcg3XG9Sv" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="1483" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
@@ -322,7 +322,7 @@
           <mxGeometry x="430" y="500" width="570" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-63" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;align=center;rounded=1;glass=0;sketch=0;fillColor=none;strokeColor=#0000FF;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
-          <mxGeometry x="440" y="520" width="340" height="371" as="geometry" />
+          <mxGeometry x="440" y="520" width="340" height="430" as="geometry" />
         </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-1" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;align=center;rounded=1;glass=0;sketch=0;fillColor=none;strokeColor=#ff6600;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="797" y="294.5" width="200" height="118" as="geometry" />
@@ -521,9 +521,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-55" value="Customer&lt;br&gt;Approve/Decline transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Noto Sans;fontColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-54">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-55" value="Approve/Decline&lt;br style=&quot;font-size: 11px&quot;&gt;transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Noto Sans;fontColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-54">
           <mxGeometry x="0.1303" y="2" relative="1" as="geometry">
-            <mxPoint x="-226" y="-18" as="offset" />
+            <mxPoint x="-330" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/arrow-part-2-2/32/Arrow_03_arrow-refresh-transfer-synchronization-sync_icon-128.png;rounded=1;glass=0;sketch=0;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;strokeColor=#67AB9F;strokeWidth=2;fillColor=#67AB9F;gradientColor=#ffffff;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
@@ -570,13 +570,13 @@
         <mxCell id="Ij6WondVH9g9EtxfICHH-73" value="Ecommerce" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="562" y="520" width="80" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-74" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=classic;startFill=1;strokeColor=#67AB9F;strokeWidth=2;exitX=0.998;exitY=0.221;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-63" target="Ij6WondVH9g9EtxfICHH-64">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-74" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=classic;startFill=1;strokeColor=#67AB9F;strokeWidth=2;exitX=1.007;exitY=0.191;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-63" target="Ij6WondVH9g9EtxfICHH-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="603.4218078035813" as="sourcePoint" />
             <mxPoint x="830" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-75" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=classic;startFill=1;strokeWidth=2;exitX=0.992;exitY=0.674;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#ea6b66;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-63" target="Ij6WondVH9g9EtxfICHH-65">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-75" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=classic;startFill=1;strokeWidth=2;exitX=1.002;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#ea6b66;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-63" target="Ij6WondVH9g9EtxfICHH-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="779.3199999999999" y="772.5010000000002" as="sourcePoint" />
             <mxPoint x="836" y="772.5099999999998" as="targetPoint" />
@@ -624,6 +624,21 @@
           <mxGeometry x="-0.1915" y="-1" relative="1" as="geometry">
             <mxPoint x="278" y="21" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-6" value="" style="group" vertex="1" connectable="0" parent="bNzOWfzCyJlJk8sEjxIc-1">
+          <mxGeometry x="190" y="870" width="110.00000000000003" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-2" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;dashed=1;strokeWidth=2;align=center;rounded=1;glass=0;sketch=0;fillColor=none;" vertex="1" parent="o9zyhS72fnK3BtgYeelw-6">
+          <mxGeometry y="2" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-3" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;fillColor=#fff2cc;align=center;perimeterSpacing=0;rounded=1;strokeColor=none;" vertex="1" parent="o9zyhS72fnK3BtgYeelw-6">
+          <mxGeometry x="2.5" y="6" width="103" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/credit-cards-pos/900/visa-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" vertex="1" parent="o9zyhS72fnK3BtgYeelw-6">
+          <mxGeometry x="30" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-5" value="VCAS - ADX" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="o9zyhS72fnK3BtgYeelw-6">
+          <mxGeometry x="8" y="38.5" width="80" height="31.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
