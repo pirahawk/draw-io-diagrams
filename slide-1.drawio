@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T12:02:41.812Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="PaX3IqO1gJQtHCAg2qv4" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T12:04:08.911Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="8ECygcW3tXElIxz1Xh1y" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="415" dy="235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
@@ -330,7 +330,7 @@
         <mxCell id="Ij6WondVH9g9EtxfICHH-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.451;entryDx=0;entryDy=0;fontSize=16;strokeWidth=2;startArrow=classic;startFill=1;entryPerimeter=0;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-5" target="Ij6WondVH9g9EtxfICHH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="phCEopTE8zcqv06UCw5X-1" value="PAN Check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-2">
+        <mxCell id="phCEopTE8zcqv06UCw5X-1" value="PAN Check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-2">
           <mxGeometry x="0.1091" y="3" relative="1" as="geometry">
             <mxPoint x="-17" y="-13" as="offset" />
           </mxGeometry>
@@ -340,7 +340,7 @@
             <mxPoint x="463" y="379.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="phCEopTE8zcqv06UCw5X-5" value="VCAS - UI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-3">
+        <mxCell id="phCEopTE8zcqv06UCw5X-5" value="VCAS - UI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-3">
           <mxGeometry x="-0.2187" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -354,7 +354,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9zyhS72fnK3BtgYeelw-1" value="RDX Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-4">
+        <mxCell id="o9zyhS72fnK3BtgYeelw-1" value="RDX Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-4">
           <mxGeometry x="-0.592" y="3" relative="1" as="geometry">
             <mxPoint x="-75" y="-19" as="offset" />
           </mxGeometry>
@@ -367,7 +367,7 @@
             <mxPoint x="460" y="320.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-7" value="3DS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-6">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-7" value="3DS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-6">
           <mxGeometry x="0.2116" y="1" relative="1" as="geometry">
             <mxPoint x="-9" y="-17" as="offset" />
           </mxGeometry>
@@ -422,7 +422,7 @@
             <mxPoint x="530" y="579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-60" value="&lt;font face=&quot;Noto Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans&quot; style=&quot;font-size: 14px;&quot;&gt;RDX API v2.1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=0" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-24">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-60" value="&lt;font face=&quot;Noto Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Noto+Sans&quot; style=&quot;font-size: 14px;&quot;&gt;RDX API v2.1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-24">
           <mxGeometry x="0.4327" y="-2" relative="1" as="geometry">
             <mxPoint x="-129" y="-26" as="offset" />
           </mxGeometry>
@@ -521,7 +521,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-55" value="Customer Approves/Declines Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Noto Sans;fontColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-54">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-55" value="Customer Approves/Declines Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Noto Sans;fontColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-54">
           <mxGeometry x="0.1303" y="2" relative="1" as="geometry">
             <mxPoint x="-171" y="-10" as="offset" />
           </mxGeometry>
@@ -617,9 +617,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-38" value="Send device&lt;br&gt;Push Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Noto Sans;fontColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-37">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-38" value="Send device Push-Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Noto Sans;fontColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-37">
           <mxGeometry x="-0.1915" y="-1" relative="1" as="geometry">
-            <mxPoint x="278" y="21" as="offset" />
+            <mxPoint x="-5" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o9zyhS72fnK3BtgYeelw-6" value="" style="group" vertex="1" connectable="0" parent="bNzOWfzCyJlJk8sEjxIc-1">
