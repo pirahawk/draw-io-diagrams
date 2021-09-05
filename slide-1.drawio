@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T12:01:37.828Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="dkg2pzeUi5ANSsanXFNV" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T12:02:41.812Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="PaX3IqO1gJQtHCAg2qv4" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="1483" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="415" dy="235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
@@ -521,9 +521,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-55" value="Approve/Decline&lt;br style=&quot;font-size: 11px&quot;&gt;transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Noto Sans;fontColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-54">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-55" value="Customer Approves/Declines Transaction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Noto Sans;fontColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-54">
           <mxGeometry x="0.1303" y="2" relative="1" as="geometry">
-            <mxPoint x="-330" y="-18" as="offset" />
+            <mxPoint x="-171" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/arrow-part-2-2/32/Arrow_03_arrow-refresh-transfer-synchronization-sync_icon-128.png;rounded=1;glass=0;sketch=0;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;strokeColor=#67AB9F;strokeWidth=2;fillColor=#67AB9F;gradientColor=#ffffff;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
