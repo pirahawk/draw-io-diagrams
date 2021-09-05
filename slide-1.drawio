@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T12:15:08.239Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="kPjVhwawJuO0ifFXWfZn" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T12:22:01.424Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="5-S0pLCuP8p0_Zpa6pXA" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
@@ -666,6 +666,18 @@
         </mxCell>
         <mxCell id="o9zyhS72fnK3BtgYeelw-19" value="Visa - Customer&lt;br&gt;Authentication System (VCAS)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="483" y="248" width="80" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-20" value="7a" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans;spacingBottom=4;spacingRight=2;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#7EA6E0;fontStyle=1;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
+          <mxGeometry x="578" y="665.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-21" value="8a" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans;spacingBottom=4;spacingRight=2;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#7EA6E0;fontStyle=1;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
+          <mxGeometry x="578" y="718.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-22" value="7b" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans;spacingBottom=4;spacingRight=2;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#7EA6E0;fontStyle=1;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
+          <mxGeometry x="749" y="768.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o9zyhS72fnK3BtgYeelw-23" value="8b" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans;spacingBottom=4;spacingRight=2;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#7EA6E0;fontStyle=1;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
+          <mxGeometry x="749" y="830.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
