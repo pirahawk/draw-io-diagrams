@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T11:25:43.976Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="0533IOWxeonzOZ9QToxf" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T11:26:15.379Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="Lb74TzMgq7omMlfMJ4_J" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -593,7 +593,7 @@
           <mxGeometry x="210.38" y="359" width="23.74" height="23.74" as="geometry" />
         </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-p.vanquis.co.uk/media/2104491/vanquis-logo-tablet-final.png;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
-          <mxGeometry x="330" y="399" width="52.54" height="26.5" as="geometry" />
+          <mxGeometry x="235.49" y="363.75" width="30.73" height="15.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
