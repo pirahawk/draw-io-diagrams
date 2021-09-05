@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T11:27:50.056Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="24VG7cvDEMrNF7Ev_QRx" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T11:30:20.678Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="CX6ojibtLt7jQEKSwKJl" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,41 +44,41 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bjQcpKduDAYJUi7hb5w3" name="mobile-authentication">
-    <mxGraphModel dx="894" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ch3QdmZu403sRXimKyRT-0" />
         <mxCell id="ch3QdmZu403sRXimKyRT-1" parent="ch3QdmZu403sRXimKyRT-0" />
-        <mxCell id="L16vQ2L3pEhkureSRjSH-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;dashed=1;strokeWidth=2;strokeColor=#666666;fontColor=#333333;fillColor=none;align=center;" vertex="1" parent="ch3QdmZu403sRXimKyRT-1">
+        <mxCell id="L16vQ2L3pEhkureSRjSH-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;dashed=1;strokeWidth=2;strokeColor=#666666;fontColor=#333333;fillColor=none;align=center;" parent="ch3QdmZu403sRXimKyRT-1" vertex="1">
           <mxGeometry x="275" y="170" width="110" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/essentials-4/1710/unlock-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" vertex="1" parent="ch3QdmZu403sRXimKyRT-1">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/essentials-4/1710/unlock-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" parent="ch3QdmZu403sRXimKyRT-1" vertex="1">
           <mxGeometry x="430" y="252.5" width="57" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-11" target="m4PkVSINQAt3fIYqN0QK-15">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-11" target="m4PkVSINQAt3fIYqN0QK-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;fontSize=16;" vertex="1" parent="ch3QdmZu403sRXimKyRT-1">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;dashed=1;fontSize=16;" parent="ch3QdmZu403sRXimKyRT-1" vertex="1">
           <mxGeometry x="176" y="251" width="35" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-15" target="m4PkVSINQAt3fIYqN0QK-10">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-15" target="m4PkVSINQAt3fIYqN0QK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline/91/Science__Technology_48-2-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" vertex="1" parent="ch3QdmZu403sRXimKyRT-1">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline/91/Science__Technology_48-2-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" parent="ch3QdmZu403sRXimKyRT-1" vertex="1">
           <mxGeometry x="306" y="257" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-1/52/finger__biometric__fingerprint__identity__thumb-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" vertex="1" parent="ch3QdmZu403sRXimKyRT-1">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-1/52/finger__biometric__fingerprint__identity__thumb-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" parent="ch3QdmZu403sRXimKyRT-1" vertex="1">
           <mxGeometry x="300" y="181" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/security-and-protection-36/32/Security_and_Protection_security_protection_password-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" vertex="1" parent="ch3QdmZu403sRXimKyRT-1">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/security-and-protection-36/32/Security_and_Protection_security_protection_password-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" parent="ch3QdmZu403sRXimKyRT-1" vertex="1">
           <mxGeometry x="306" y="318" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-11" target="m4PkVSINQAt3fIYqN0QK-16">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-11" target="m4PkVSINQAt3fIYqN0QK-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221" y="291" as="sourcePoint" />
             <mxPoint x="316" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m4PkVSINQAt3fIYqN0QK-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-11" target="m4PkVSINQAt3fIYqN0QK-18">
+        <mxCell id="m4PkVSINQAt3fIYqN0QK-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ch3QdmZu403sRXimKyRT-1" source="m4PkVSINQAt3fIYqN0QK-11" target="m4PkVSINQAt3fIYqN0QK-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221" y="291" as="sourcePoint" />
             <mxPoint x="306" y="340" as="targetPoint" />
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="865" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
