@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T11:44:39.703Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="bitbXs-3sQOM-DhNsILZ" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T11:46:01.490Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="GnzLUzIZFMNePmxc2aOE" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -463,22 +463,6 @@
         <mxCell id="Ij6WondVH9g9EtxfICHH-36" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;dashed=1;strokeWidth=2;align=center;rounded=1;glass=0;sketch=0;fillColor=none;strokeColor=#67AB9F;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="472" y="602.5" width="100" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=none;startFill=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#EA6B66;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-69" target="Ij6WondVH9g9EtxfICHH-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="901.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="914" y="781" />
-              <mxPoint x="914" y="1020" />
-              <mxPoint x="75" y="1020" />
-              <mxPoint x="75" y="676" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-38" value="Send device&lt;br&gt;Push Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Noto Sans;fontColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-37">
-          <mxGeometry x="-0.1915" y="-1" relative="1" as="geometry">
-            <mxPoint x="278" y="21" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-39" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;dashed=1;strokeWidth=2;align=center;rounded=1;glass=0;sketch=0;fillColor=none;strokeColor=#EA6B66;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="636" y="602.5" width="100" height="278.5" as="geometry" />
         </mxCell>
@@ -624,6 +608,22 @@
         </mxCell>
         <mxCell id="o9zyhS72fnK3BtgYeelw-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/security-and-protection-36/32/Security_and_Protection_security_protection_password-128.png;dashed=1;fontSize=16;strokeWidth=2;fillColor=none;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="107" y="665.5" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Ij6WondVH9g9EtxfICHH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=none;startFill=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#EA6B66;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-69" target="Ij6WondVH9g9EtxfICHH-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="901.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="788" />
+              <mxPoint x="980" y="1020" />
+              <mxPoint x="75" y="1020" />
+              <mxPoint x="75" y="676" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ij6WondVH9g9EtxfICHH-38" value="Send device&lt;br&gt;Push Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Noto Sans;fontColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-37">
+          <mxGeometry x="-0.1915" y="-1" relative="1" as="geometry">
+            <mxPoint x="278" y="21" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
