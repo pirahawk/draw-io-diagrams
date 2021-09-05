@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T12:12:57.832Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="sIhKQ5kDjLV8iplIYwhJ" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T12:14:55.535Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="2wVsh9ZivUffUP5B-jn1" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="716" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
@@ -622,7 +622,7 @@
         </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-38" value="Send device Push-Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Noto Sans;fontColor=none;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Ij6WondVH9g9EtxfICHH-37">
           <mxGeometry x="-0.1915" y="-1" relative="1" as="geometry">
-            <mxPoint x="-5" y="11" as="offset" />
+            <mxPoint x="222" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o9zyhS72fnK3BtgYeelw-6" value="" style="group" vertex="1" connectable="0" parent="bNzOWfzCyJlJk8sEjxIc-1">
