@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T12:30:12.300Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="9vvTgDM_8QtTyvigFVnm" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T17:07:32.172Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="OMLvcW9vGojo6leQoXZF" version="15.0.6" type="github" pages="5">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="865" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
@@ -678,6 +678,17 @@
         </mxCell>
         <mxCell id="o9zyhS72fnK3BtgYeelw-23" value="8b" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans;spacingBottom=4;spacingRight=2;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#7EA6E0;fontStyle=1;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="749" y="830.5" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bN5AB8DKWI5DblKEoCJF" name="architecture-overview">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="HKb6q5ekMHgVXEQrOOFu-0" />
+        <mxCell id="HKb6q5ekMHgVXEQrOOFu-1" parent="HKb6q5ekMHgVXEQrOOFu-0" />
+        <mxCell id="Z2u9HGyA-MS31Qru0Wtu-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;dashed=1;strokeWidth=2;align=center;rounded=1;glass=0;sketch=0;fillColor=none;" vertex="1" parent="HKb6q5ekMHgVXEQrOOFu-1">
+          <mxGeometry x="192.22" y="480" width="110" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
