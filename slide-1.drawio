@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-05T11:26:53.461Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="VfFRKGuKjTlMCG9fSUvD" version="15.0.6" type="github" pages="4">
+<mxfile modified="2021-09-05T11:27:07.266Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="kJVhgcZXEqVZHdks2za1" version="15.0.6" type="github" pages="4">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -357,7 +357,7 @@
             <mxPoint x="-9" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-8" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;dashed=1;strokeWidth=2;strokeColor=#666666;fontColor=#333333;fillColor=none;align=center;rounded=1;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-8" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;strokeColor=#666666;fontColor=#333333;fillColor=none;align=center;rounded=1;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
           <mxGeometry x="192.22" y="291.5" width="110" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ij6WondVH9g9EtxfICHH-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://business.ebanx.com/hubfs/Website/master/images/svg/icons/3d-secure/workflow/ux-01.svg;imageBackground=#ffffff;" vertex="1" parent="bNzOWfzCyJlJk8sEjxIc-1">
