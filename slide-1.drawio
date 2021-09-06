@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-06T16:17:44.056Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="v1lwS76Zsv_mQXVL3hL_" version="15.0.6" type="github" pages="6">
+<mxfile modified="2021-09-06T16:18:59.854Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="vUiQWCpaCoPDjjqNKunP" version="15.0.6" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -968,7 +968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w1IQ3vACJV91QwKH2BWl" name="architecture-topology">
-    <mxGraphModel dx="1184" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1006" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-0" />
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-1" parent="0HM1xdTw8TAJ1BwJd8fQ-0" />
@@ -1179,8 +1179,18 @@
         <mxCell id="DCbQyc_MwWfMfIdtSw6y-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;" edge="1" parent="DCbQyc_MwWfMfIdtSw6y-13" source="DCbQyc_MwWfMfIdtSw6y-10" target="DCbQyc_MwWfMfIdtSw6y-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tNjlklT3FQc9icfAkjVC-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=18;startArrow=none;startFill=0;" edge="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1" target="Q5lvsgyBmR7TGOnHRWlW-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1326" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNjlklT3FQc9icfAkjVC-4" value="Replica" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Noto Sans;" vertex="1" connectable="0" parent="tNjlklT3FQc9icfAkjVC-3">
+          <mxGeometry x="-0.2305" y="4" relative="1" as="geometry">
+            <mxPoint x="-35" y="49" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DCbQyc_MwWfMfIdtSw6y-14" value="Azure Sql&lt;br style=&quot;font-size: 14px;&quot;&gt;Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/databases/SQL_Server.svg;rounded=0;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#000000;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="1290.24" y="343" width="52" height="52" as="geometry" />
+          <mxGeometry x="1300" y="343" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DCbQyc_MwWfMfIdtSw6y-15" value="Azure SQL Elastic Pool" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/databases/SQL_Elastic_Pools.svg;rounded=0;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#000000;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
           <mxGeometry x="1170" y="345" width="48" height="48" as="geometry" />
@@ -1195,7 +1205,7 @@
           <mxGeometry x="1146.7600000000002" y="513.5" width="52.25" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tNjlklT3FQc9icfAkjVC-0" value="Azure Cosmos&lt;br style=&quot;font-size: 14px;&quot;&gt;Db" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#000000;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="1380" y="332" width="65" height="65" as="geometry" />
+          <mxGeometry x="1386" y="332" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="tNjlklT3FQc9icfAkjVC-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=18;startArrow=classic;startFill=1;" edge="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1" source="x8P15cJc1aLpTXuNE3-q-2" target="x8P15cJc1aLpTXuNE3-q-4">
           <mxGeometry relative="1" as="geometry" />
