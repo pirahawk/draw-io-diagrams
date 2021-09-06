@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-06T16:14:32.143Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="9diCP88yTWIfCOVjBFxH" version="15.0.6" type="github" pages="6">
+<mxfile modified="2021-09-06T16:16:37.965Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="JJ9xJjwdxxMfTsHUXZD7" version="15.0.6" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -968,7 +968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w1IQ3vACJV91QwKH2BWl" name="architecture-topology">
-    <mxGraphModel dx="2012" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1184" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-0" />
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-1" parent="0HM1xdTw8TAJ1BwJd8fQ-0" />
@@ -1017,14 +1017,14 @@
         <mxCell id="NU2UmGh31tdHRBict9V9-3" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=ing;rounded=0;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
           <mxGeometry x="440" y="670.5" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="NU2UmGh31tdHRBict9V9-4" value="ADX Receiver API" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="499.75" y="718.5" width="102.5" height="31.5" as="geometry" />
+        <mxCell id="NU2UmGh31tdHRBict9V9-4" value="MTLS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
+          <mxGeometry x="150" y="420" width="102.5" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="NU2UmGh31tdHRBict9V9-5" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;rounded=0;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;fontColor=#000000;align=center;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
           <mxGeometry x="526" y="670.5" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="x8P15cJc1aLpTXuNE3-q-3" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="60" y="280" width="110" height="110" as="geometry" />
+          <mxGeometry x="177" y="278" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="x8P15cJc1aLpTXuNE3-q-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;fillColor=#fff2cc;align=center;perimeterSpacing=0;rounded=1;strokeColor=none;fontSize=14;" vertex="1" parent="x8P15cJc1aLpTXuNE3-q-3">
           <mxGeometry width="110" height="110" as="geometry" />
@@ -1033,10 +1033,10 @@
           <mxGeometry x="21" y="16" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="x8P15cJc1aLpTXuNE3-q-2" value="VCAS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" vertex="1" parent="x8P15cJc1aLpTXuNE3-q-3">
-          <mxGeometry x="15" y="76" width="80" height="31.5" as="geometry" />
+          <mxGeometry x="15" y="80" width="80" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="x8P15cJc1aLpTXuNE3-q-5" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="70" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="494.25" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ajhOzlmIKBawqk3xYN89-2" value="" style="points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall;fillColor=#FAFAFA;strokeColor=#005073;rounded=1;dashed=1;fontSize=14;" vertex="1" parent="x8P15cJc1aLpTXuNE3-q-5">
           <mxGeometry x="70" y="15" width="50" height="50" as="geometry" />
@@ -1196,6 +1196,12 @@
         </mxCell>
         <mxCell id="tNjlklT3FQc9icfAkjVC-0" value="Azure Cosmos&lt;br style=&quot;font-size: 14px;&quot;&gt;Db" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#000000;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
           <mxGeometry x="1380" y="332" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="tNjlklT3FQc9icfAkjVC-1" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=18;startArrow=classic;startFill=1;" edge="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1" source="x8P15cJc1aLpTXuNE3-q-2" target="x8P15cJc1aLpTXuNE3-q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNjlklT3FQc9icfAkjVC-2" value="ADX Receiver API" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
+          <mxGeometry x="509.75" y="728.5" width="102.5" height="31.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
