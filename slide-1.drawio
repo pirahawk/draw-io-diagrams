@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-06T16:38:50.041Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="X2MTMbT0Zd3DWzJP5tb2" version="15.0.6" type="github" pages="6">
+<mxfile modified="2021-09-06T16:39:51.419Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="cYT143j7L3PE0HocyKcv" version="15.0.6" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -968,7 +968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w1IQ3vACJV91QwKH2BWl" name="architecture-topology">
-    <mxGraphModel dx="1184" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-0" />
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-1" parent="0HM1xdTw8TAJ1BwJd8fQ-0" />
@@ -1094,7 +1094,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dZ4yQ0gEgnT-5-iqOPKm-1" value="Password Service&lt;br style=&quot;font-size: 14px;&quot;&gt;ASE" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=1;dashed=1;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#000000;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="420" y="766.65" width="70" height="70" as="geometry" />
+          <mxGeometry x="420" y="762.65" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dZ4yQ0gEgnT-5-iqOPKm-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.855;exitY=0.8555;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1" source="ajhOzlmIKBawqk3xYN89-2" target="ajhOzlmIKBawqk3xYN89-0">
           <mxGeometry relative="1" as="geometry" />
