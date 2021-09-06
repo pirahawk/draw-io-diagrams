@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-06T14:44:07.900Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="Jm1Irkqnr1t1ot2GMgU5" version="15.0.6" type="github" pages="6">
+<mxfile modified="2021-09-06T14:44:59.488Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="NWMUUylmtGloqq47MHBL" version="15.0.6" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -968,10 +968,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w1IQ3vACJV91QwKH2BWl" name="architecture-topology">
-    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-0" />
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-1" parent="0HM1xdTw8TAJ1BwJd8fQ-0" />
+        <mxCell id="sx6CXAKrPLf9x4VyJ9fQ-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;align=center;rounded=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
+          <mxGeometry x="170" y="70" width="380" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
