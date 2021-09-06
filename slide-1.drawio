@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-06T16:22:33.212Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="X2oHnp1HfWSlnATmaYPS" version="15.0.6" type="github" pages="6">
+<mxfile modified="2021-09-06T16:22:49.050Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="uYZlLPyc8B53OCVNzNFC" version="15.0.6" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1066,7 +1066,7 @@
           <mxGeometry x="682.29" y="670.5" width="35.43" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LQV2RwOsKdU_fg_2a9VA-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;align=center;rounded=0;glass=0;sketch=0;fillColor=none;fontSize=14;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="621" y="1000" width="337.88" height="70" as="geometry" />
+          <mxGeometry x="621" y="1000" width="189" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LQV2RwOsKdU_fg_2a9VA-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dashboard.snapcraft.io/site_media/appmedia/2019/11/terraform.png;fontSize=14;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
           <mxGeometry x="638.88" y="1008" width="52" height="52" as="geometry" />
