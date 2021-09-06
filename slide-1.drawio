@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-06T16:21:27.644Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="eNBLLrHfxcTfOXUGDjI6" version="15.0.6" type="github" pages="6">
+<mxfile modified="2021-09-06T16:22:08.796Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="yWn0jnuYRP-9w2PnQj1h" version="15.0.6" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1186,11 +1186,11 @@
         </mxCell>
         <mxCell id="tNjlklT3FQc9icfAkjVC-4" value="Replica" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Noto Sans;" vertex="1" connectable="0" parent="tNjlklT3FQc9icfAkjVC-3">
           <mxGeometry x="-0.2305" y="4" relative="1" as="geometry">
-            <mxPoint x="-35" y="49" as="offset" />
+            <mxPoint x="30" y="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DCbQyc_MwWfMfIdtSw6y-14" value="Azure Sql&lt;br style=&quot;font-size: 14px;&quot;&gt;Server" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/databases/SQL_Server.svg;rounded=0;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#000000;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
-          <mxGeometry x="1300" y="343" width="52" height="52" as="geometry" />
+          <mxGeometry x="1299" y="343" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DCbQyc_MwWfMfIdtSw6y-15" value="Azure SQL Elastic Pool" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/databases/SQL_Elastic_Pools.svg;rounded=0;labelBackgroundColor=none;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontColor=#000000;strokeColor=#0000FF;fillColor=#E6E6E6;" vertex="1" parent="0HM1xdTw8TAJ1BwJd8fQ-1">
           <mxGeometry x="1170" y="345" width="48" height="48" as="geometry" />
