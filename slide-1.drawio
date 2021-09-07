@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-07T07:50:50.270Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="Q1LmIRallhPulUkk2cGt" version="15.1.0" type="github" pages="6">
+<mxfile modified="2021-09-07T07:51:02.856Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="F06kGPrAFmyhYX_AxILn" version="15.1.0" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -687,7 +687,7 @@
         </mxCell>
         <mxCell id="wsJKti3Uh-YPSY2uOQa1-2" value="Pending-Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsJKti3Uh-YPSY2uOQa1-1">
           <mxGeometry x="0.4452" y="1" relative="1" as="geometry">
-            <mxPoint x="-12" y="20" as="offset" />
+            <mxPoint x="-12" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
