@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-07T08:06:00.371Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="F70_Id76pfXkEWrmJaqd" version="15.1.0" type="github" pages="6">
+<mxfile modified="2021-09-07T08:06:28.425Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="GAQFS1LPjXxOYM7EO---" version="15.1.0" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -979,12 +979,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w1IQ3vACJV91QwKH2BWl" name="architecture-topology">
-    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-0" />
         <mxCell id="0HM1xdTw8TAJ1BwJd8fQ-1" parent="0HM1xdTw8TAJ1BwJd8fQ-0" />
         <mxCell id="xGnf8mVgmjtm1WIqg-X--20" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=4;align=center;rounded=0;glass=0;sketch=0;fillColor=none;dashed=1;strokeColor=#7EA6E0;fontSize=14;" parent="0HM1xdTw8TAJ1BwJd8fQ-1" vertex="1">
-          <mxGeometry x="240" y="280" width="1270" height="620" as="geometry" />
+          <mxGeometry x="260" y="280" width="1250" height="620" as="geometry" />
         </mxCell>
         <mxCell id="ajhOzlmIKBawqk3xYN89-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=3;align=center;rounded=1;glass=0;sketch=0;fillColor=none;dashed=1;strokeColor=#FF9933;fontSize=14;" parent="0HM1xdTw8TAJ1BwJd8fQ-1" vertex="1">
           <mxGeometry x="360" y="460" width="1030" height="430" as="geometry" />
@@ -1077,13 +1077,13 @@
           <mxGeometry x="682.29" y="670.5" width="35.43" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LQV2RwOsKdU_fg_2a9VA-0" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;strokeWidth=2;align=center;rounded=0;glass=0;sketch=0;fillColor=none;fontSize=14;" parent="0HM1xdTw8TAJ1BwJd8fQ-1" vertex="1">
-          <mxGeometry x="40" y="779.3" width="170" height="70" as="geometry" />
+          <mxGeometry x="79" y="830" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LQV2RwOsKdU_fg_2a9VA-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://dashboard.snapcraft.io/site_media/appmedia/2019/11/terraform.png;fontSize=14;" parent="0HM1xdTw8TAJ1BwJd8fQ-1" vertex="1">
-          <mxGeometry x="57.879999999999995" y="787.3" width="52" height="52" as="geometry" />
+          <mxGeometry x="96.88" y="838" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="VO0vGKTensXZxA3EUElI-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=14;image=img/lib/azure2/devops/Azure_DevOps.svg;rounded=1;dashed=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;" parent="0HM1xdTw8TAJ1BwJd8fQ-1" vertex="1">
-          <mxGeometry x="140" y="791.3" width="44" height="44" as="geometry" />
+          <mxGeometry x="179" y="842" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="VO0vGKTensXZxA3EUElI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSans;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="0HM1xdTw8TAJ1BwJd8fQ-1" source="sx6CXAKrPLf9x4VyJ9fQ-0" target="VO0vGKTensXZxA3EUElI-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
