@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-06T19:01:55.310Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="SH2RvVCBDMp7TyyqooFY" version="15.0.6" type="github" pages="6">
+<mxfile modified="2021-09-07T07:50:50.270Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="Q1LmIRallhPulUkk2cGt" version="15.1.0" type="github" pages="6">
   <diagram id="7WUe-dOS2cIF6YBwkror" name="web-authentication">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YyCfSfDjLGRdLfcjgsEc" name="ecommerce-3ds-redone">
-    <mxGraphModel dx="1006" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-0" />
         <mxCell id="bNzOWfzCyJlJk8sEjxIc-1" parent="bNzOWfzCyJlJk8sEjxIc-0" />
@@ -576,9 +576,9 @@
             <mxPoint x="830" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ij6WondVH9g9EtxfICHH-75" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=classic;startFill=1;strokeWidth=2;exitX=1.002;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#ea6b66;" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-63" target="Ij6WondVH9g9EtxfICHH-65" edge="1">
+        <mxCell id="Ij6WondVH9g9EtxfICHH-75" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=classic;startFill=1;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#ea6b66;" parent="bNzOWfzCyJlJk8sEjxIc-1" target="Ij6WondVH9g9EtxfICHH-65" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="779.3199999999999" y="772.5010000000002" as="sourcePoint" />
+            <mxPoint x="781" y="842" as="sourcePoint" />
             <mxPoint x="836" y="772.5099999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -674,10 +674,21 @@
           <mxGeometry x="578" y="718.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o9zyhS72fnK3BtgYeelw-22" value="7b" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans;spacingBottom=4;spacingRight=2;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#7EA6E0;fontStyle=1;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" parent="bNzOWfzCyJlJk8sEjxIc-1" vertex="1">
-          <mxGeometry x="749" y="768.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="749" y="742.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o9zyhS72fnK3BtgYeelw-23" value="8b" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Noto Sans;spacingBottom=4;spacingRight=2;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#7EA6E0;fontStyle=1;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;" parent="bNzOWfzCyJlJk8sEjxIc-1" vertex="1">
           <mxGeometry x="749" y="830.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wsJKti3Uh-YPSY2uOQa1-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Noto Sans;fontSource=https://fonts.googleapis.com/css?family=Noto+Sans;fontSize=14;fontColor=none;startArrow=none;startFill=0;strokeColor=#EA6B66;strokeWidth=2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="bNzOWfzCyJlJk8sEjxIc-1" source="Ij6WondVH9g9EtxfICHH-53" target="Ij6WondVH9g9EtxfICHH-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="623" y="1080" as="sourcePoint" />
+            <mxPoint x="797" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wsJKti3Uh-YPSY2uOQa1-2" value="Pending-Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wsJKti3Uh-YPSY2uOQa1-1">
+          <mxGeometry x="0.4452" y="1" relative="1" as="geometry">
+            <mxPoint x="-12" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
